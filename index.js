@@ -1,6 +1,6 @@
 // ****** Importing Dependencies & Database and Defining Port Number  ****** //
 const express = require('express');
-const port = 7000;
+const port = 8000;
 const db = require('./config/mongoose');
 
 const passport = require('passport');
